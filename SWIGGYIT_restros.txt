@@ -1,0 +1,27 @@
+Name: Sethi Bar-Be-Que-Panchwati Circle  Rating: 4.2  Discount: 50% off
+Name: Burger King  Rating: 4.1  Discount: 50% off
+Name: Mohan Dhaba  Rating: 4.2  Discount: 40% off
+Name: Muhammadi Palace  Rating: 4.0  Discount: 50% off
+Name: Burger Farm  Rating: 4.3  Discount: 30% off
+Name: Mohan Dhaba  Rating: 4.2  Discount: 40% off
+Name: Roll It Up  Rating: 4.2  Discount: 50% off
+Name: TMX The Munch Box  Rating: --•  Discount: 50% off
+Name: Veg Bowll Co.  Rating: 3.9  Discount: 50% off
+Name: Burglars  Rating: 4.3  Discount: 50% off
+Name: The Gravy Company By White Kitchens  Rating: 4.3  Discount: 30% off
+Name: Sky Beach  Rating: 3.3  Discount: 50% off
+Name: Roll It Up  Rating: 4.2  Discount: 50% off
+Name: Molly Moo Ice Creams- C Scheme  Rating: 4.4  Discount: 30% off
+Name: Burglars  Rating: 4.3  Discount: 50% off
+Name: Inchin  Rating: --•  Discount: 30% off
+Name: Cafe Bae  Rating: 4.3  Discount: 30% off
+Name: Kebabs & Curries Company  Rating: 4.2  Discount: 50% off
+Name: Muhammadi Palace  Rating: 4.0  Discount: 50% off
+Name: Punjabi Dhaba by MMPD  Rating: 4.1  Discount: 50% off
+Name: Mohan Dhaba  Rating: 4.2  Discount: 40% off
+Name: Captain Biryani by White Kitchens  Rating: 3.8  Discount: 30% off
+Name: Sethi Tikka Kabab Curry  Rating: 4.1  Discount: 50% off
+Name: Kebabs & Curries Company  Rating: 4.2  Discount: 50% off
+Name: Burger Farm  Rating: 4.3  Discount: 30% off
+Name: Burger Singh (Big Punjabi Burgers)  Rating: 4.1  Discount: 50% off
+Name: Laal Badshah By White Kitchens  Rating: 4.2  Discount: 30% off
